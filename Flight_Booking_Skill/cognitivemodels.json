@@ -1,0 +1,27 @@
+{
+  "cognitiveModels": {
+    "en": {
+      "languageModels": [
+        {
+          "region": "westus",
+          "version": "0.1",
+          "subscriptionkey": "ed5731118648481196c88213325c02bb",
+          "authoringkey": "ed5731118648481196c88213325c02bb",
+          "id": "Flight_Booking_Skill",
+          "appid": "5de4c631-02db-4dce-bfdb-154cc925df1d",
+          "name": "FlightBookingSkillen_Flight_Booking_Skill"
+        },
+        {
+          "region": "westus",
+          "version": "0.1",
+          "subscriptionkey": "ed5731118648481196c88213325c02bb",
+          "authoringkey": "ed5731118648481196c88213325c02bb",
+          "id": "General",
+          "appid": "b30fd29d-8c7a-4e41-8fb3-6e8693503dc3",
+          "name": "FlightBookingSkillen_General"
+        }
+      ]
+    }
+  },
+  "defaultLocale": "en-us"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Flight_Booking_Skill",
+  "name": "Flight_Booking_Skill",
+  "description": "",
+  "iconUrl": "",
+  "authenticationConnections": [],
+  "actions": [
+    {
+      "id": "Flight_Booking_Skill_Sample",
+      "definition": {
+        "description": "Sample Skill action with no slots",
+        "slots": [],
+        "triggers": {
+          "utteranceSources": [
+            {
+              "locale": "en",
+              "source": [
+                "Flight_Booking_Skill#Sample"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
